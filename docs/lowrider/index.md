@@ -132,7 +132,13 @@ rest.
 ### Belt Ends
 
 ![!pic](https://www.v1engineering.com/wp-content/uploads/2018/08/IMG_20180809_1943212.jpg){: width="350"}
+
+This should be a tight circle, not wrap around, there are two holes to find, not just one.
+
 ![!pic](https://www.v1engineering.com/wp-content/uploads/2018/08/IMG_20180809_1943032.jpg){: width="350"}
+
+Feed the zip tie into the lower slot and out the top so that it forms a D shape.  Note tha the lock of the belt loop zip tie is facing downward.
+
 ![!pic](https://www.v1engineering.com/wp-content/uploads/2018/08/IMG_20180809_1943362.jpg){: width="350"}
 
 ## Table
